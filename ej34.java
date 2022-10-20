@@ -9,7 +9,7 @@ public class ej34 {
     System.out.print("Introduzca otro número: ");
     long numeroIntroducido2 = Long.parseLong(System.console().readLine());
 
-    // Voltea el primer número y calcula la longitud ///////////////////////////
+    // Voltea el primer número y calcula la longitud //////////////////////////
     // Se da por hecho que los dos números introducidos tienen la misma longitud.
     long numero = numeroIntroducido1;
     long volteado1 = 0;
